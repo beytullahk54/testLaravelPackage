@@ -1,6 +1,6 @@
 <?php
 
-namespace beytullahk54\testlaravelpackage;
+namespace Beytullahk54\TestLaravelPackage;
 
 class TestService
 {
