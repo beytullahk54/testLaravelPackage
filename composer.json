@@ -9,7 +9,7 @@
     ],
     "autoload": {
       "psr-4": {
-        "BeytullahK54\\TestLaravelPackage\\": "src/"
+        "beytullahk54\\testlaravelpackage\\": "src/"
       }
     },
     "require": {}
