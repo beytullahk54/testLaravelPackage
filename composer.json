@@ -1,0 +1,16 @@
+{
+    "name": "kodlooper/my-services",
+    "description": "Örnek Servis",
+    "authors": [
+      {
+        "name": "Beytullah",
+        "email": "kodlooper@gmail.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "TestService\\": "src/"
+      }
+    },
+    "require": {}
+  }
